@@ -1,0 +1,23 @@
+{
+  "name": "desafio-frontend-m02-dds-t08",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusFerreiraL/desafio-frontend-m02-dds-t08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusFerreiraL/desafio-frontend-m02-dds-t08/issues"
+  },
+  "homepage": "https://github.com/MatheusFerreiraL/desafio-frontend-m02-dds-t08#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
