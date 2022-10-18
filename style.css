@@ -196,7 +196,7 @@ body {
 
 .highlight__info {
   max-width: 360px;
-  height: 340px;
+  min-height: 340px;
 
   background: var(--highlight-background);
   box-shadow: var(--shadow-color);
